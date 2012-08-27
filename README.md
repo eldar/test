@@ -1,7 +1,7 @@
 test
 ====
 
-<!-- won't render -->
+<h1>Hello</h1>
 
 ```javascript
 var f = function()
