@@ -1,7 +1,9 @@
 test
 ====
 
-<h1>Hello</h1>
+<div>
+Hello
+</div>
 
 ```javascript
 var f = function()
