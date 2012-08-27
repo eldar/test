@@ -9,6 +9,8 @@ Hello
 var f = function()
 {
     var foo = "```";
+    
+    ```;
 }
 
 var another = 5;
